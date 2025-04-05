@@ -21,7 +21,7 @@
 - با این حال، ساخت بیش‌ازحد داده‌های مشابه با ساختارهای تکراری باعث کاهش عملکرد مدل در داده‌های تست شد؛ چرا که مدل قادر به تعمیم کافی روی داده‌های جدید نبود.
 
 برای مشاهده این داده‌ها می‌توانید به لینک زیر مراجعه کنید:
-- [ChatGPT Dataset (GitHub)](https://github.com/parhamjanjan/Datasets/Main_Gpt)
+- [ChatGPT Dataset (GitHub)](https://github.com/parhamjanjan/Datasets/tree/main/GPT_Main)
 
 ---
 
