@@ -15,7 +15,10 @@
     - [Course Reviews Dataset (Huggingface)](https://huggingface.co/datasets/kkotkar1/course-reviews)
   - بخشی دیگر از داده‌ها از دیتاست توییت‌های فارسی مربوط به تحلیل احساسات استخراج شده است:
     - [Persian Sentiment Analysis (GitHub)](https://github.com/baktash81/Persian_Sentiment_Analysis/blob/main/Data/train.tsv)
+-باید توجه داشت که ساخت داده ی بیش از حد با api chatgpt نیز مشکلاتی به همراه داشت فارغ از مدت زمان و هزینه صرف شده مدل با دیدن داده های نزدیک به هم که از یک ساختار کلی یکسان پیروی می کند خوب یاد نمیگرفت و عملکرد مدل در داده های تست اصلا خوب نبود میتوانید دیتاست های تولید شده با chatgpt را مشاهده کنید:
+    - [ChatGpt Dataset (GitHub)](https://github.com/parhamjanjan/Datasets/Main_Gpt)
 
+- با اینکه دیتاست را در موضوعات مختلف آموزشی خودرو غذا اثرات هنری و ... ساختیم باز هم مدل عملکرد خوبی به همراه نداشت
 ## ساختار کلاس‌بندی
 
 - برخی از این دیتاست‌ها دارای **۵ کلاس احساسی (Emotion Classes)** هستند.
